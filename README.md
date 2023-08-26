@@ -29,6 +29,3 @@ Las credenciales para ingresar están en el archivo application.yml
 - [@neltoledo](https://www.github.com/neltoledo)
 - [@GabrielSilvaHern](https://github.com/GabrielSilvaHern)
 - [@rebegv](https://www.github.com/rebegv)
-
-
-![Logo](https://previews.123rf.com/images/captainvector/captainvector1705/captainvector170507999/77181937-globe-logo-element-with-abstract-concept.jpg)
