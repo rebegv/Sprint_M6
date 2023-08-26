@@ -20,10 +20,6 @@ El archivo sql "bd.sql" que contiene la base de datos utilizada en el proyecto, 
 
 - [@rebegv](https://www.github.com/rebegv)
 
-
-![Logo](https://raw.githubusercontent.com/rebegv/Sprint_M6/main//assets/logo_sprint_m6.png)
-
-
 ## Tecnologías
 
  - Java JEE
